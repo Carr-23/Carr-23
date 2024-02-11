@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="wp.png" alt="Banner"/>
+  <img src="wp-cropped.png" alt="Banner"/>
 </p>
 
 <h1 align="center">Hi there, I'm Braulio 🌃</h1>
