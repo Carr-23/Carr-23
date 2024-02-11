@@ -1,4 +1,4 @@
-![WP Banner](https://example.com/wp.png)
+![Firewatch Banner](wp.png)
 
 # Hi there, I'm Braulio Carrion Corveira! 👋
 
