@@ -1,3 +1,5 @@
+![WP Banner](https://example.com/wp.png)
+
 # Hi there, I'm Braulio Carrion Corveira! 👋
 
 I'm a passionate software developer with a diverse skill set and a love for creating innovative projects. Here's a little about me:
@@ -6,3 +8,5 @@ I'm a passionate software developer with a diverse skill set and a love for crea
 - 🌱 I’m currently learning Rust 🦀 and always eager to explore new technologies.
 - 💬 Ask me about anything related to programming, web development, or my travel experiences!
 - 📫 How to reach me: [Email](mailto:brauliocarrion@gmail.com) | [LinkedIn](https://www.linkedin.com/in/brauliocc/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
