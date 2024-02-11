@@ -1,21 +1,35 @@
-![Firewatch Banner](wp.png)
-
 <p align="center">
-  <h1>
-    Hi there, I'm Braulio
-    <img src="https://profile-counter.glitch.me/{Carr-23}/count.svg" alt="Carr-23 :: Visitor's Count" />
-  </h1>
+  <img src="wp.png" alt="Banner"/>
 </p>
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+<h1 align="center">Hi there, I'm Braulio 🌃</h1>
 
-I'm a passionate software developer with a diverse skill set and a love for creating innovative projects. Here's a little about me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/brauliocc/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" alt="LinkedIn" width="50" height="50"></a>
+  <a href="mailto:brauliocarrion@gmail.com" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/telegram_black_logo_icon_147073.png" alt="Email" width="50" height="50"></a>
+</p>
 
-- 🔭 I’m currently working on various projects to enhance my skills.
-- 🌱 I’m currently learning Rust 🦀 and always eager to explore new technologies.
-- 💬 Ask me about anything related to programming, web development, or my travel experiences!
-- 📫 How to reach me: [Email](mailto:brauliocarrion@gmail.com) | [LinkedIn](https://www.linkedin.com/in/brauliocc/)
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{Carr-23}/count.svg" alt="Carr-23 :: Visitor's Count" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Carr-23&theme=tokyonight" alt="mystreak"/>
+<p align="center">_____________________________________________________________</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carr-23&layout=compact&theme=tokyonight)
+
+<p align="center">
+  I'm a passionate software developer with a diverse skill set and a love for creating innovative projects. 
+</p>
+
+<p align="center">🔭 I’m currently working on various projects to enhance my skills.</p>
+
+<p align="center">🌱 I’m currently learning Rust 🦀 and always eager to explore new technologies.</p>
+
+<p align="center">💬 Ask me about anything related to programming, web development, or my travel experiences!</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carr-23&theme=tokyonight" alt="Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carr-23&layout=compact&theme=tokyonight" alt="Top Lang"/>
+</p>
